@@ -115,6 +115,10 @@ For Data Analysts: Identify underperforming categories or outlet types.
 
 For Marketing Teams: Strategize promotions based on outlet size and item type performance.
 
+<img width="1331" height="742" alt="Screenshot 2025-07-12 155116" src="https://github.com/user-attachments/assets/43ff81c9-53d6-43b8-9c68-379e43b25de5" />
+<img width="1308" height="736" alt="Screenshot 2025-07-12 155523" src="https://github.com/user-attachments/assets/d9134540-c9e4-400d-9e69-ab7d9df05dc1" />
+<img width="1315" height="727" alt="Screenshot 2025-07-12 155612" src="https://github.com/user-attachments/assets/b5b3ab83-30a5-4f8a-bc8a-5487630979dc" />
+
 ✅ How to Use
 Open the Power BI dashboard file.
 
